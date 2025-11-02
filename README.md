@@ -1,38 +1,47 @@
-# BALDI'S BASICS PLUS: French Translation
-This mod of Baldi's Basics Plus changes subtitles, menus and assets in the same way as BB+!*
+# BALDI'S BASICS PLUS: Traduction Française
+For non-french speakers, check the README in english > [here](https://github.com/Baguette555/BBPFrenchTranslation/blob/main/README-en.md) <
+Merci à l'équipe [BaldiTomorrowGames](https://github.com/BaldiTomorrowGames) de m'avoir donné l'autorisation de récupérer leur [Git](https://github.com/BaldiTomorrowGames/TWGSRussifier), afin de traduire en français.
+
+Ce mod de Baldi's Basics Plus change les sous-titres, menus et assets de la même façon que l'original !*
 ![Project 4](https://github.com/user-attachments/assets/b79c21bb-fded-4eb0-932c-0d9411c768b0)
 
-From posters to soda vending machines, every asset is translated into French, with French equivalent wordplay.
+Des posters jusqu'aux distributeurs automatiques, chaque asset est traduit en français, tout en gardant le ton que le jeu de base, avec l'équivalent des jeux de mots français !
 ![PostersBBPfrench](https://github.com/user-attachments/assets/36cf3afe-af70-44e5-96ba-457386c4a5fa)
 
-The mod is still up to date! (Mod will be released later than official game release, because I can't have the assets before release.)
+Le mod sera toujours mis à jour _après_ la mise à jour officielle. Attendez-vous à des délais après les MàJ.
 
 ![Bus__Load_Sprite](https://github.com/user-attachments/assets/5edb5726-4c4f-47a5-898f-24b252594730)
 
-Check out the mod's gamebanana page! > [BB+ - French Translation](https://gamebanana.com/wips/77850)
+Le lien vers la page GameBanana est juste ici ! > [BB+ - French Translation](https://gamebanana.com/wips/77850)
 
-**This mod does not includes any voice changes (yet?).*
+**Ce mod n'inclus pas le voice acting (pour l'instant?).*
 
 
-# Plugins to install before playing!
-This mod is working with the help of [Baldi's Basics Plus Dev API](https://gamebanana.com/mods/383711) and [BB+ Texture Packs](https://gamebanana.com/mods/482089). (Both downloadable on GameBanana)
+# Plugins à installer avant de jouer !
+Ce mod fonctionne grâce au [Baldi's Basics Plus Dev API](https://gamebanana.com/mods/383711) et [BepInEx](https://github.com/BepInEx/BepInEx).
+* Installez d'abord BepInEx avant d'installer BBP Dev API.
 
-Or check their source code here : [BBP Dev API Github](https://github.com/benjaminpants/MTM101BMDE/) | [BB+ Texture Packs Github](https://github.com/benjaminpants/BaldiTexturePacks)
+Ou jetez un coup d'oeil au code source: [BBP Dev API Github](https://github.com/benjaminpants/MTM101BMDE/)
 
-You need to install them all to play the French Translation.
+Vous aurez besoin de les installer afin de jouer avec la traduction française.
 
-# Installation process
-The .zip folder in releases have a Installation.txt file.
+# Installation 
+Le dossier .zip contient un fichier Installation.txt.
 
-You first need to have BepInEx installed with Baldi's Basics Plus.
+Vous devrez d'abord avoir installé BepInEx avec Baldi's Basics Plus.
 
-Install the two dependencies listed above.
+Installez ensuite les dépendances nécessaires.
 
-Once installed, just drag and drop the folders "BADLI_Data" & "BepInEx" in the main folder of Baldi's Basics Plus.
+Une fois installées, vous aurez juste besoin de cliquer-déposer les dossiers "BALDI_DATA" & "BepInEx" dans le dossier principal de Baldi's Basics Plus. (Là où le fichier exécutable se situe)
 
-Everything should be good to go, now you're ready to play and experience French Baldi~~~
+À partir d'ici tout devrait être bon ! Fin prêts à jouer au Baldi français !
 
-# Known issues
-- Some menus cannot be translated at the moment. I'm still trying to find a way!
+# Problèmes connus
+- (Pour l'instant, aucun)
 
- - If you find any issues, feel free to tell me! I will do everything possible to change it.
+>>> Si vous avez trouvé des bugs, n'hésitez pas à m'en faire part !
+
+# Crédits (Merci !)
+[BaldiTomorrowGames](https://github.com/BaldiTomorrowGames) > Scripts et programmation, [projet GitHub original](https://github.com/BaldiTomorrowGames/TWGSRussifier).
+[PeakLordBR](https://gamebanana.com/members/1994398) > Drapeau français dans le menu principal.
+[mystman12 and Basically Games](https://www.basicallygames.com/) > Jeu original, Baldi's Basics Plus (et la série Baldi's Basics).
