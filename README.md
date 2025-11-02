@@ -1,73 +1,38 @@
-# TomorrowGames Baldi's Basics Plus Russifier
+# BALDI'S BASICS PLUS: French Translation
+This mod of Baldi's Basics Plus changes subtitles, menus and assets in the same way as BB+!*
+![Project 4](https://github.com/user-attachments/assets/b79c21bb-fded-4eb0-932c-0d9411c768b0)
 
-![Версия](https://img.shields.io/badge/Версия-1.2.0-blue)
-![Статус разработки](https://img.shields.io/badge/Статус-100%25-yellow)
-![Игра](https://img.shields.io/badge/Игра-Baldi's%20Basics%20Plus%200.12-green)
+From posters to soda vending machines, every asset is translated into French, with French equivalent wordplay.
+![PostersBBPfrench](https://github.com/user-attachments/assets/36cf3afe-af70-44e5-96ba-457386c4a5fa)
 
-## 📝 Описание
+The mod is still up to date! (Mod will be released later than official game release, because I can't have the assets before release.)
 
-Этот мод добавляет русский перевод для игры Baldi's Basics Plus. Проект находится в активной разработке и **код может быть сырым**. На данный момент реализовано 100% задуманного кода.
+![Bus__Load_Sprite](https://github.com/user-attachments/assets/5edb5726-4c4f-47a5-898f-24b252594730)
 
-> ⚠️ **Внимание!** Мод может работать нестабильно и содержать ошибки!
+Check out the mod's gamebanana page! > [BB+ - French Translation](https://gamebanana.com/wips/77850)
 
-## 🚀 Функционал
+**This mod does not includes any voice changes (yet?).*
 
-- ✅ Перевод интерфейса игры
-- ✅ Перевод субтитров
-- ✅ Локализация текстур (плакаты, спрайты и другие изображения)
-- ✅ Озвучка на русском языке 
 
-## 💿 Установка
+# Plugins to install before playing!
+This mod is working with the help of [Baldi's Basics Plus Dev API](https://gamebanana.com/mods/383711) and [BB+ Texture Packs](https://gamebanana.com/mods/482089). (Both downloadable on GameBanana)
 
-1. Установите [BepInEx](https://github.com/BepInEx/BepInEx)
-2. Установите [MTM101BaldAPI](https://gamebanana.com/mods/383711)
-3. Установите [CyrillicPlus](https://gamebanana.com/mods/524258)
-4. Скачайте последнюю версию мода со [страницы релизов](https://github.com/BaldiTomorrowGames/TWGSRussifier/releases)
-5. Распакуйте содержимое архива в папку игры
-6. Запустите игру
+Or check their source code here : [BBP Dev API Github](https://github.com/benjaminpants/MTM101BMDE/) | [BB+ Texture Packs Github](https://github.com/benjaminpants/BaldiTexturePacks)
 
-## ⚙️ Требования
+You need to install them all to play the French Translation.
 
-- [Baldi's Basics Plus](https://www.basicallygames.com/baldis-basics-plus) <sub><sup>(0.11)</sub></sup>
-- [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) <sub><sup>(5.4.23.3+)</sub></sup>
-- [MTM101BaldAPI](https://gamebanana.com/mods/383711) <sub><sup>(8.1.0.0+)</sub></sup>
-- [CyrillicPlus](https://gamebanana.com/mods/524258) <sub><sup>(1.2.1)</sub></sup>
+# Installation process
+The .zip folder in releases have a Installation.txt file.
 
-## 🛠 Для разработчиков
+You first need to have BepInEx installed with Baldi's Basics Plus.
 
-Проект разрабатывается на C# с использованием кода игры, MTM101BMDE и BepInEx. Вклад в развитие проекта приветствуется!
+Install the two dependencies listed above.
 
-## 💻 Компиляция
+Once installed, just drag and drop the folders "BADLI_Data" & "BepInEx" in the main folder of Baldi's Basics Plus.
 
-Для компиляции проекта вам потребуется:
+Everything should be good to go, now you're ready to play and experience French Baldi~~~
 
-1. Visual Studio 2022
-2. .NET Standard 2.1
+# Known issues
+- Some menus cannot be translated at the moment. I'm still trying to find a way!
 
-Необходимые библиотеки (есть в [релизе](https://github.com/BaldiTomorrowGames/TWGSRussifier/releases/tag/dependencies) и должны быть помещены в папку `Dependencies` в корне проекта):
-- 0Harmony.dll
-- Assembly-CSharp.dll
-- BepInEx.dll
-- BepInEx.Harmony.dll
-- HarmonyXInterop.dll
-- MTM101BaldAPI.dll
-- Newtonsoft.Json.dll
-- UnityEngine.dll
-- UnityEngine.CoreModule.dll
-- UnityEngine.UI.dll
-- UnityEngine.TextRenderingModule.dll
-- UnityEngine.AudioModule.dll
-- UnityEngine.AssetBundleModule.dll
-- UnityEngine.IMGUIModule.dll
-
-## 📋 Известные проблемы
-
-- ?
-
-## 📜 Лицензия
-
-Проект распространяется под лицензией MIT. Подробности в файле LICENSE.
-
----
-
-*Этот мод не является официальным продуктом и не связан с разработчиками Baldi's Basics Plus.* 
+ - If you find any issues, feel free to tell me! I will do everything possible to change it.
